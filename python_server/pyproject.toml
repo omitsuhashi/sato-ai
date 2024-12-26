@@ -6,7 +6,7 @@ authors = ["ina299 <kainekominto299@gmail.com>"]
 package-mode = false
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.11"
 requests = "^2.32.3"
 flask = "^3.0.3"
 google-api-python-client = "^2.133.0"
@@ -57,7 +57,7 @@ gspread = "^6.1.2"
 
 [tool.ruff]
 line-length = 190
-target-version = "py312"
+target-version = "py311"
 
 [tool.ruff.lint]
 

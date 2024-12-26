@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd27ba53-d141-409b-aee6-dc56199178e5" name="Changes" comment="動くところまで修正">
+      <change beforePath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Avatar/VrmAvatar.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Avatar/VrmAvatar.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Materials/N00_000_00_Body_00_SKIN (Instance).asset" beforeDir="false" afterPath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Materials/N00_000_00_Body_00_SKIN (Instance).asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Materials/N00_000_00_Body_00_SKIN (Instance).asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Materials/N00_000_00_Body_00_SKIN (Instance).asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Materials/N00_000_00_FaceMouth_00_FACE (Instance).asset" beforeDir="false" afterPath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Materials/N00_000_00_FaceMouth_00_FACE (Instance).asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Materials/N00_000_00_FaceMouth_00_FACE (Instance).asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Materials/N00_000_00_FaceMouth_00_FACE (Instance).asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Meshes/Body (merged).baked.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Meshes/Body (merged).baked.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Meshes/Body (merged).baked.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Meshes/Body (merged).baked.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Meshes/Face (merged).baked.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Meshes/Face (merged).baked.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Meshes/Face (merged).baked.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Meshes/Face (merged).baked.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Textures/MatcapWarp_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Textures/MatcapWarp_01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Textures/Thumbnail.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Textures/Thumbnail.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Textures/texture_0.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Textures/texture_0.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Textures/texture_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Textures/texture_1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Textures/texture_10.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Textures/texture_10.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Textures/texture_11.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Textures/texture_11.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Textures/texture_2.normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Textures/texture_2.normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Textures/texture_3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Textures/texture_3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Textures/texture_4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Textures/texture_4.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Textures/texture_5.normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Textures/texture_5.normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Textures/texture_7.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Textures/texture_7.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Textures/texture_9.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.Textures/texture_9.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../aituber_3d/Assets/uLipSync/Samples/04. VRM/VRM/0.X/uLipSync-VRM0.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;omitsuhashi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:omitsuhashi/sato-ai.git&quot;,
+    &quot;accountId&quot;: &quot;116315cc-ca0f-4597-8036-3d29f9a14813&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2qjtd0nlyyWQKRWQwpD1z83QmIR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Makefile Target.run.executor&quot;: &quot;Run&quot;,
+    &quot;Makefile Target.streamlit.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/omitsuhashi/repos/sato/ai/python_server&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Makefile Target.streamlit">
+    <configuration name="run" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="run" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="streamlit" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="streamlit" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Makefile Target.streamlit" />
+        <item itemvalue="Makefile Target.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd27ba53-d141-409b-aee6-dc56199178e5" name="Changes" comment="" />
+      <created>1735187895956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735187895956</updated>
+      <workItem from="1735187896990" duration="1588000" />
+      <workItem from="1735189512531" duration="42000" />
+      <workItem from="1735193727149" duration="1061000" />
+      <workItem from="1735194934537" duration="3278000" />
+      <workItem from="1735213806769" duration="2100000" />
+    </task>
+    <task id="LOCAL-00001" summary="動くところまで修正">
+      <option name="closed" value="true" />
+      <created>1735212517975</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735212517975</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="動くところまで修正" />
+    <option name="LAST_COMMIT_MESSAGE" value="動くところまで修正" />
+  </component>
+</project>
